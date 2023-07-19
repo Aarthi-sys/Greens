@@ -15,4 +15,16 @@ public class GreensBank {
 
 		System.out.println("AndhraPradesh");
 	}
+	private void bank4() {
+
+		System.out.println("Bangalore");
+	}
+	private void bank5() {
+
+		System.out.println("Gujarat");
+	}
+	private void bank6() {
+
+		System.out.println("Delhi");
+	}
 }
